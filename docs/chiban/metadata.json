@@ -1,0 +1,14 @@
+{
+"name": "chiban",
+"description": "chiban",
+"version": "2",
+"minzoom": "12",
+"maxzoom": "20",
+"center": "138.904438,35.179281,20",
+"bounds": "138.886143,35.157393,138.917907,35.221734",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.36.0",
+"generator_options": "tippecanoe --no-tile-compression -z22 -Z12 -e chiban -y code -l layername -ai merge_polygons.geojson",
+"json": "{\"vector_layers\": [ { \"id\": \"layername\", \"description\": \"\", \"minzoom\": 12, \"maxzoom\": 20, \"fields\": {} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"layername\",\"count\": 5018,\"geometry\": \"Polygon\",\"attributeCount\": 0,\"attributes\": []}]}}"
+}
