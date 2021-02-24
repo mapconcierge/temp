@@ -1,0 +1,14 @@
+{
+"name": "chibanline",
+"description": "chibanline",
+"version": "2",
+"minzoom": "12",
+"maxzoom": "20",
+"center": "138.904438,35.179281,20",
+"bounds": "138.886143,35.157393,138.917907,35.221734",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.36.0",
+"generator_options": "tippecanoe --no-tile-compression -z22 -Z12 -e chibanline -y code -l chibanline -ai merge_lines.geojson",
+"json": "{\"vector_layers\": [ { \"id\": \"chibanline\", \"description\": \"\", \"minzoom\": 12, \"maxzoom\": 20, \"fields\": {} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"chibanline\",\"count\": 5018,\"geometry\": \"LineString\",\"attributeCount\": 0,\"attributes\": []}]}}"
+}
