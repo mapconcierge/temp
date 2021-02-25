@@ -1,0 +1,14 @@
+{
+"name": "japan19chibanzupolygon",
+"description": "japan19chibanzupolygon",
+"version": "2",
+"minzoom": "12",
+"maxzoom": "20",
+"center": "138.909245,35.207618,20",
+"bounds": "138.898099,35.177970,138.915463,35.214249",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.36.0",
+"generator_options": "tippecanoe --no-tile-compression -z22 -Z12 -e japan19chibanzupolygon -y code -l japan19chibanzupolygon -ai japan19chibanzupolygon.geojson",
+"json": "{\"vector_layers\": [ { \"id\": \"japan19chibanzupolygon\", \"description\": \"\", \"minzoom\": 12, \"maxzoom\": 20, \"fields\": {} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"japan19chibanzupolygon\",\"count\": 14739,\"geometry\": \"Polygon\",\"attributeCount\": 0,\"attributes\": []}]}}"
+}
