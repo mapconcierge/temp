@@ -1,8 +1,8 @@
 name,parent,value
 Origin,,
 下痢嘔吐,Origin,12
-grp2,Origin,23
-grp3,Origin,11
-grp4,Origin,40
-grp5,Origin,30
-grp6,Origin,25
+インフル,Origin,23
+風邪,Origin,11
+発熱,Origin,40
+コロナ,Origin,30
+その他,Origin,25
