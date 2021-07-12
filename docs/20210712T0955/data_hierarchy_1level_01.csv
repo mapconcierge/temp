@@ -1,0 +1,8 @@
+name,parent,value
+Origin,,
+下痢嘔吐<br>100,Origin,100
+インフル<br>50,Origin,50
+風邪<br>25,Origin,25
+発熱<br>25,Origin,25
+コロナ<br>5,Origin,5
+その他<br>45,Origin,45
